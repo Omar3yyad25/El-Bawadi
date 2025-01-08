@@ -1,0 +1,219 @@
+{
+    "success": 1,
+    "message": {
+        "id": 2,
+        "account_id": "12345",
+        "application_id": "9dbb7174-0288-4af4-ad4b-baf45d973395",
+        "status": "submitted",
+        "creation_date": "2023-04-24T20:18:28.000Z",
+        "type": "registerbranch",
+        "branch": {
+            "branch_id": "4fbc9dbd-e614-401e-8d72-ec053668060f",
+            "branch_name": "Emirates"
+        },
+        "data": {
+            "general": {
+                "type": "text",
+                "label": "General Information",
+                "data": {
+                    "outlet_legal_name": "legal name",
+                    "outlet_trade_name": "trade name",
+                    "outlet_group_name": "group name",
+                    "billing_outlet_address": "7th District, El- Shiekh Zaid City, Giza, Egypt",
+                    "billing_country": "Azerbaijan",
+                    "billing_city": "El- Shiekh Zaid City",
+                    "billing_phone": "01097463865",
+                    "billing_po_box": "12312",
+                    "billing_nearest_landmark": null,
+                    "delivery_outlet_address": "3153  Tanglewood Road",
+                    "delivery_country": "Australia",
+                    "delivery_city": "SHELBYVILLE",
+                    "delivery_phone": "01097463865",
+                    "delivery_po_box": "123123",
+                    "delivery_nearest_landmark": null,
+                    "business_sector": null,
+                    "website_url": "https://google.com",
+                    "service_years": 12,
+                    "creation_date": "2023-04-26T18:26:43.000Z",
+                    "last_update": "2023-04-26T18:51:00.000Z"
+                }
+            },
+            "license": {
+                "type": "text",
+                "label": "License Information",
+                "data": {
+                    "license_number": "12312312",
+                    "vat_number": "121512",
+                    "vat_expiration": null,
+                    "license_expiration": "11/02/2026",
+                    "creation_date": "2023-04-26T18:26:43.000Z",
+                    "last_update": "2023-04-26T18:26:43.000Z"
+                }
+            },
+            "contacts": {
+                "type": "table",
+                "label": "Contacts Information",
+                "data": [
+                    {
+                        "title": "Partner",
+                        "name": "Mohamed Ezzat",
+                        "email": "moezemara@gmail.com",
+                        "phone": "01097463865",
+                        "mobile": "01097463865",
+                        "shareholder_percentage": "11",
+                        "creation_date": "2023-04-26T18:33:55.000Z",
+                        "last_update": "2023-04-26T18:33:55.000Z"
+                    },
+                    {
+                        "title": "Owner",
+                        "name": "Mohamed1",
+                        "email": "1moezemara@gmail.com",
+                        "phone": "01097463865",
+                        "mobile": "01097463865",
+                        "shareholder_percentage": "15",
+                        "creation_date": "2023-04-26T18:33:55.000Z",
+                        "last_update": "2023-04-26T18:33:55.000Z"
+                    },
+                    {
+                        "title": "Authorized Signatory",
+                        "name": "Mohamed2",
+                        "email": "2moezemara@gmail.com",
+                        "phone": "01097463865",
+                        "mobile": "01097463865",
+                        "shareholder_percentage": "11",
+                        "creation_date": "2023-04-26T18:33:55.000Z",
+                        "last_update": "2023-04-26T18:33:55.000Z"
+                    },
+                    {
+                        "title": "Finance Manager",
+                        "name": "Mohamed4",
+                        "email": "4moezemara@gmail.com",
+                        "phone": "01097463865",
+                        "mobile": "01097463865",
+                        "shareholder_percentage": null,
+                        "creation_date": "2023-04-26T18:33:55.000Z",
+                        "last_update": "2023-04-26T18:33:55.000Z"
+                    },
+                    {
+                        "title": "Accounts Payable",
+                        "name": "Mohamed5",
+                        "email": "5moezemara@gmail.com",
+                        "phone": "01097463865",
+                        "mobile": "01097463865",
+                        "shareholder_percentage": null,
+                        "creation_date": "2023-04-26T18:33:55.000Z",
+                        "last_update": "2023-04-26T18:33:55.000Z"
+                    },
+                    {
+                        "title": "Purchasing Manager",
+                        "name": "Mohamed6",
+                        "email": "6moezemara@gmail.com",
+                        "phone": "01097463865",
+                        "mobile": "01097463865",
+                        "shareholder_percentage": null,
+                        "creation_date": "2023-04-26T18:33:55.000Z",
+                        "last_update": "2023-04-26T18:33:55.000Z"
+                    }
+                ]
+            },
+            "requests": {
+                "type": "text",
+                "label": "Requests Information",
+                "data": {
+                    "credit_limit": "155",
+                    "credit_period": "30",
+                    "payment_mode": null,
+                    "creation_date": "2023-04-26T18:33:44.000Z",
+                    "last_update": "2023-04-26T18:33:44.000Z"
+                }
+            },
+            "documents": {
+                "type": "table",
+                "label": "Documents Information",
+                "data": [
+                    {
+                        "id": 5,
+                        "fieldname": "license",
+                        "filename": "dabdec4d-22e1-46ea-8e79-282037b791bf.pdf",
+                        "originalname": "Credit Application Form (3) (1).pdf",
+                        "mimetype": "application/pdf",
+                        "path": "uploads/registerbranch/license/dabdec4d-22e1-46ea-8e79-282037b791bf.pdf",
+                        "size": 271611,
+                        "creation_date": "2023-04-26T18:33:44.000Z",
+                        "last_update": "2023-04-26T18:33:44.000Z"
+                    },
+                    {
+                        "id": 6,
+                        "fieldname": "owner_pp",
+                        "filename": "75584136-8459-4e36-a158-03aef2c243c6.pdf",
+                        "originalname": "Customer Outlet Information Sheet.pdf",
+                        "mimetype": "application/pdf",
+                        "path": "uploads/registerbranch/owner_pp/75584136-8459-4e36-a158-03aef2c243c6.pdf",
+                        "size": 262708,
+                        "creation_date": "2023-04-26T18:33:44.000Z",
+                        "last_update": "2023-04-26T18:33:44.000Z"
+                    },
+                    {
+                        "id": 7,
+                        "fieldname": "owner_visa",
+                        "filename": "a9afe962-cf20-4c3a-aac9-6eb5131b9669.pdf",
+                        "originalname": "Credit Application Form (3).pdf",
+                        "mimetype": "application/pdf",
+                        "path": "uploads/registerbranch/owner_visa/a9afe962-cf20-4c3a-aac9-6eb5131b9669.pdf",
+                        "size": 271611,
+                        "creation_date": "2023-04-26T18:33:44.000Z",
+                        "last_update": "2023-04-26T18:33:44.000Z"
+                    },
+                    {
+                        "id": 8,
+                        "fieldname": "owner_eid",
+                        "filename": "8752a039-7873-415e-b583-aec83506dbdf.pdf",
+                        "originalname": "BFME NetSuite CAF Integration Credentials.pdf",
+                        "mimetype": "application/pdf",
+                        "path": "uploads/registerbranch/owner_eid/8752a039-7873-415e-b583-aec83506dbdf.pdf",
+                        "size": 18004,
+                        "creation_date": "2023-04-26T18:33:44.000Z",
+                        "last_update": "2023-04-26T18:33:44.000Z"
+                    },
+                    {
+                        "id": 9,
+                        "fieldname": "power_of_attorney",
+                        "filename": "0cab6add-7f24-48a4-8fc0-6b87b4f4aa45.pdf",
+                        "originalname": "Request for Credit Facility.pdf",
+                        "mimetype": "application/pdf",
+                        "path": "uploads/registerbranch/power_of_attorney/0cab6add-7f24-48a4-8fc0-6b87b4f4aa45.pdf",
+                        "size": 88676,
+                        "creation_date": "2023-04-26T18:33:44.000Z",
+                        "last_update": "2023-04-26T18:33:44.000Z"
+                    },
+                    {
+                        "id": 10,
+                        "fieldname": "vat",
+                        "filename": "725572f6-84df-4fbc-ba17-cc2fcd9289bf.pdf",
+                        "originalname": "1591006207_E14997-e-tarjome.pdf",
+                        "mimetype": "application/pdf",
+                        "path": "uploads/registerbranch/vat/725572f6-84df-4fbc-ba17-cc2fcd9289bf.pdf",
+                        "size": 2426227,
+                        "creation_date": "2023-04-26T18:33:44.000Z",
+                        "last_update": "2023-04-26T18:33:44.000Z"
+                    }
+                ]
+            },
+            "docusign_envelopes": {
+                "type": "table",
+                "label": "Docusign Envelopes Information",
+                "data": [
+                    {
+                        "id": 1,
+                        "envelope_id": "42d3661c-0c53-4069-8606-744c1f7a1044",
+                        "recipient_email": "moezemara@gmail.com",
+                        "status": "completed",
+                        "signing_date": "2023-04-26T16:43:34.000Z",
+                        "created_at": "2023-04-26T18:41:12.000Z",
+                        "last_update": "2023-04-26T18:47:15.000Z"
+                    }
+                ]
+            }
+        }
+    }
+}

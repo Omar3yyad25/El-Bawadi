@@ -1,0 +1,93 @@
+{
+    "success": 1,
+    "message": {
+        "registerbranch": [
+            {
+                "id": 1,
+                "account_id": "12345",
+                "application_id": "63c27ccf-962e-4668-825a-64f65f94b727",
+                "status": "submitted",
+                "creation_date": "2023-04-24T20:06:51.000Z"
+            },
+            {
+                "id": 2,
+                "account_id": "12345",
+                "application_id": "9dbb7174-0288-4af4-ad4b-baf45d973395",
+                "status": "submitted",
+                "creation_date": "2023-04-24T20:18:28.000Z"
+            },
+            {
+                "id": 3,
+                "account_id": "12345",
+                "application_id": "14acae72-7efc-4370-a1c7-72e71f9f552f",
+                "status": "submitted",
+                "creation_date": "2023-05-01T10:50:26.000Z"
+            },
+            {
+                "id": 4,
+                "account_id": "12345",
+                "application_id": "28c0c4f5-9c90-4b9f-afc2-520dc85ef8f2",
+                "status": "incomplete",
+                "creation_date": "2023-05-01T10:54:48.000Z"
+            }
+        ],
+        "requestcredit": [
+            {
+                "id": 1,
+                "account_id": "12345",
+                "application_id": "2260d22c-b01e-464f-be4e-d80d559803ca",
+                "status": "submitted",
+                "creation_date": "2023-04-24T19:23:56.000Z"
+            },
+            {
+                "id": 2,
+                "account_id": "12345",
+                "application_id": "0d708c23-1478-4957-a46b-f0e925e4c939",
+                "status": "submitted",
+                "creation_date": "2023-04-24T19:23:56.000Z"
+            },
+            {
+                "id": 3,
+                "account_id": "12345",
+                "application_id": "91051d72-448a-476f-ad93-e913a17c18e0",
+                "status": "submitted",
+                "creation_date": "2023-04-26T16:58:20.000Z"
+            },
+            {
+                "id": 4,
+                "account_id": "12345",
+                "application_id": "c28ca5e1-1686-4784-9560-f420ed9d49e8",
+                "status": "submitted",
+                "creation_date": "2023-04-26T17:42:19.000Z"
+            },
+            {
+                "id": 5,
+                "account_id": "12345",
+                "application_id": "52c7b9d0-ee0d-46ad-8d3b-324e9156c46b",
+                "status": "submitted",
+                "creation_date": "2023-04-26T18:52:20.000Z"
+            },
+            {
+                "id": 6,
+                "account_id": "12345",
+                "application_id": "ad213264-e4e5-48ed-bb91-8f40a9f886f5",
+                "status": "submitted",
+                "creation_date": "2023-05-01T10:34:51.000Z"
+            },
+            {
+                "id": 7,
+                "account_id": "12345",
+                "application_id": "a68e17cf-c702-452b-a0c6-da15781f74e0",
+                "status": "submitted",
+                "creation_date": "2023-05-01T10:44:50.000Z"
+            },
+            {
+                "id": 8,
+                "account_id": "12345",
+                "application_id": "a711026b-2579-49e6-864a-6346196f3416",
+                "status": "incomplete",
+                "creation_date": "2023-05-01T10:50:19.000Z"
+            }
+        ]
+    }
+}
